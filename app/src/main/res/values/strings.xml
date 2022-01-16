@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="dialog_title">Guessing Game</string>
+    <string name="dialog_msg_start">Think about an animal...</string>
+    <string name="dialog_msg_question_trait">Does the animal that you thought about %1$s?</string>
+    <string name="dialog_msg_question_animal">Is the animal that you thought about a %1$s?</string>
+    <string name="dialog_msg_win">I win again!</string>
+    <string name="dialog_msg_input_animal">What was the animal that you thought about?</string>
+    <string name="dialog_msg_input_trait">A %1$s _______ but a %2$s does not (Fill it with an animal trait, like \'lives in water\').</string>
+    <string name="label_yes">Sim</string>
+    <string name="label_no">Não</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_ok">Ok</string>
+    <string name="fragment_restart">Play Again!</string>
+    <string name="about_text1">ABOUT</string>
+    <string name="about_text2">Developed by</string>
+    <string name="about_text3"> Arthur Ferreira Pinto</string>
+</resources>
